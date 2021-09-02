@@ -1,0 +1,17 @@
+{
+  "name": "@sertacars/npmtrial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "test": "testme"
+  },
+  "repository": {
+     "url": "https://github.com/sertacars/npmtrial.git"
+  },
+  "publishConfig": {
+     "registry":"https://npm.pkg.github.com/"
+  },   
+  "author": "",
+  "license": "ISC"
+}

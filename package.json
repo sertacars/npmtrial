@@ -10,7 +10,7 @@
      "url": "https://github.com/sertacars/npmtrial.git"
   },
   "publishConfig": {
-     "registry":"https://npm.pkg.github.com/"
+   "@sertacars:registry": "https://npm.pkg.github.com"
   },   
   "author": "",
   "license": "ISC"
